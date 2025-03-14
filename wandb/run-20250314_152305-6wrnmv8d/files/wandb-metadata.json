@@ -1,0 +1,42 @@
+{
+  "os":  "Linux-6.11.0-17-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.5",
+  "startedAt":  "2025-03-14T14:23:05.330357Z",
+  "args":  [
+    "--model",
+    "yolo11n"
+  ],
+  "program":  "/home/maxglo/maxime/MOCS/train.py",
+  "codePath":  "train.py",
+  "email":  "max.gleu@gmail.com",
+  "root":  "/home/maxglo/maxime/MOCS",
+  "host":  "maxglo",
+  "executable":  "/home/maxglo/.local/share/mise/installs/python/3.12.5/bin/python",
+  "codePathLocal":  "train.py",
+  "cpu_count":  24,
+  "cpu_count_logical":  32,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1708291538944",
+      "used":  "644762783744"
+    }
+  },
+  "memory":  {
+    "total":  "67088814080"
+  },
+  "cpu":  {
+    "count":  24,
+    "countLogical":  32
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}
