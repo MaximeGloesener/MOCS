@@ -1,8 +1,0 @@
-{"time":"2025-03-14T15:23:42.010654557+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-03-14T15:23:42.010663977+01:00","level":"INFO","msg":"created symlink","path":"/home/maxglo/maxime/MOCS/wandb/run-20250314_152342-s3j3q3z1/logs/debug-core.log"}
-{"time":"2025-03-14T15:23:42.113981951+01:00","level":"INFO","msg":"created new stream","id":"s3j3q3z1"}
-{"time":"2025-03-14T15:23:42.11400291+01:00","level":"INFO","msg":"stream: started","id":"s3j3q3z1"}
-{"time":"2025-03-14T15:23:42.11407928+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"s3j3q3z1"}
-{"time":"2025-03-14T15:23:42.114100311+01:00","level":"INFO","msg":"handler: started","stream_id":"s3j3q3z1"}
-{"time":"2025-03-14T15:23:42.114106268+01:00","level":"INFO","msg":"sender: started","stream_id":"s3j3q3z1"}
-{"time":"2025-03-14T15:23:42.349299741+01:00","level":"INFO","msg":"Starting system monitor"}

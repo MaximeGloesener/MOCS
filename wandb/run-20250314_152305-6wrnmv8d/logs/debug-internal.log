@@ -1,8 +1,0 @@
-{"time":"2025-03-14T15:23:05.330948601+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-03-14T15:23:05.330959349+01:00","level":"INFO","msg":"created symlink","path":"/home/maxglo/maxime/MOCS/wandb/run-20250314_152305-6wrnmv8d/logs/debug-core.log"}
-{"time":"2025-03-14T15:23:05.434147558+01:00","level":"INFO","msg":"created new stream","id":"6wrnmv8d"}
-{"time":"2025-03-14T15:23:05.434161518+01:00","level":"INFO","msg":"stream: started","id":"6wrnmv8d"}
-{"time":"2025-03-14T15:23:05.434242725+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"6wrnmv8d"}
-{"time":"2025-03-14T15:23:05.434336183+01:00","level":"INFO","msg":"handler: started","stream_id":"6wrnmv8d"}
-{"time":"2025-03-14T15:23:05.434346715+01:00","level":"INFO","msg":"sender: started","stream_id":"6wrnmv8d"}
-{"time":"2025-03-14T15:23:05.657143318+01:00","level":"INFO","msg":"Starting system monitor"}
