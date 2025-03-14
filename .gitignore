@@ -3,3 +3,5 @@
 /yolov11-infrabel/
 *.pt
 *.pth
+/runs/
+/results/
