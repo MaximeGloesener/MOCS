@@ -17,8 +17,7 @@ model = YOLO(f'{args.model}.pt')
 
 # Enable W&B logging in YOLO training
 model.train(data='data.yaml', epochs=100, imgsz=640, batch=16,
-            project="yolov11-infrabel", name= f"{args.model}",
-            save=True, val=True)
+            project="yolov11-infrabel", name= f"{args.model}")
 
 # Finish W&B run
 wandb.finish()
